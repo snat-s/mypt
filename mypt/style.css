@@ -7,12 +7,21 @@ div.texto {
         padding: 25px;
         border: 5px solid white;
         margin: 15px;
-
-
-}
-p{
-
-}
+    }
+#center {
+        text-align: center;
+        line-height: 1.6;
+        width: 500px;
+        padding: 25px;
+        border: 5px solid white;
+        margin: 15px;
+    }
+#derecha {
+ text-align: right;
+    }
+p {
+        text-align: justify;
+    }
 hr{
         color: grey;
 }
@@ -50,4 +59,12 @@ a   {
 .sanstitulos{
         font-family:"Arial Black", Gadget, sans-serif;
     }
-
+footer {
+        text-align: center;
+    }
+.responsive {
+        width: 50%;
+        max-width: 850;
+        height: 50%;
+        max-height: 650;
+    }
