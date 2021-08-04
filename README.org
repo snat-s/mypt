@@ -1,5 +1,5 @@
 #+TITLE: README
-
+[[./logo_final_fisica.png]]
 ** ¿Qué es el MYPT?
 El Mexican Young Physicists' Tournament (MYPT) es un torneo de Física que tiene como objetivo la promoción del aprendizaje en los campos de la Física, el trabajo en Equipo y el idioma Inglés.
 ** Torneos Pasados
